@@ -10,6 +10,14 @@ BookNest is a web application that allows users to search for books, add them to
 - **Responsive Design:** The app is fully responsive, ensuring a seamless experience on any device.
 - **Local Storage Integration:** Your favorite books and library are stored in the browser's local storage for persistence across sessions.
 
+## Screenshots
+
+Here is some screenshots from the app:
+
+![Screenshot 1](./screenshots/screenshot-1.PNG)
+![Screenshot 2](./screenshots/screenshot-2.PNG)
+![Screenshot 3](./screenshots/screenshot-3.PNG)
+
 ## Technologies Used
 
 - **React** for building the user interface.
@@ -29,9 +37,9 @@ To run BookNest locally, follow these steps:
 
 3. Install dependencies:
    npm install
-   
+
 4. Start the development server:
    npm start
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
